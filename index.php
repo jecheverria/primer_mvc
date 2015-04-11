@@ -2,11 +2,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Title of the document</title>
+<title>.:Index:.</title>
 </head>
 
 <body>
-hello world
+    <h1>hello world</h1>
 </body>
 
 </html> 
