@@ -2,9 +2,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>.:Index:.</title>
+<title>.: Index :.</title>
 </head>
-
 <body>
     <?php
     
@@ -16,5 +15,4 @@
     
     ?>
 </body>
-
 </html> 
